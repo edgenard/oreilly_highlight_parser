@@ -20,9 +20,11 @@ Given:
 - A CSV file formatted like the one above
 - For 1 book(so the Book Title value is exactly the same for all highlights)
 - With highlights in reverse chronological order
+- A directory to save files
 
 Return a markdown file:
 - Whose file name is the book title in snake case(`book_title`)
+- Which is saved in the directory provided.
 - And formatted like the example below, with the oldest highlight first
 
 
