@@ -39,3 +39,8 @@ Personal Note
 ```
 
 
+##  API
+
+`Parser.parse(csv_file_path:String, directory_to_generated_markdown_file:String)`
+
+
